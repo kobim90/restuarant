@@ -33,5 +33,6 @@ notes:
 }
 *currently working productIds are 1-5 (DB is filled with 5 products)
 * to run testing in terminal write "npm test"
+*to start the server write "npm start" in root folder terminal
 *the GET route return the orders of the current date, so in order to see results, you must enter orders from the date you
 are checking the project
