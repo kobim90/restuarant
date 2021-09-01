@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test": "mocha || true"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}

@@ -1,0 +1,123 @@
+2021-09-01T07:16:06.021Z [[32minfo[39m]: orders
+2021-09-01T07:16:12.990Z [[32minfo[39m]: orders
+2021-09-01T07:17:02.933Z [[32minfo[39m]: incoming request
+2021-09-01T07:18:43.926Z [[32minfo[39m]: incoming request
+2021-09-01T07:19:19.108Z [[32minfo[39m]: incoming request on route /orders
+2021-09-01T07:19:19.143Z [[32minfo[39m]: data returnd
+2021-09-01T07:24:05.162Z [[31merror[39m]: Length of the field orderCity is incorrect
+2021-09-01T08:24:57.634Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:24:57.665Z [[32minfo[39m]: data returnd
+2021-09-01T08:25:28.030Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:25:28.061Z [[32minfo[39m]: data returnd
+2021-09-01T08:27:46.546Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:27:46.584Z [[32minfo[39m]: data returnd
+2021-09-01T08:28:54.516Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:28:54.549Z [[32minfo[39m]: data returnd
+2021-09-01T08:48:08.943Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:48:08.974Z [[32minfo[39m]: data returnd
+2021-09-01T08:48:08.988Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:48:08.989Z [[32minfo[39m]: data returnd
+2021-09-01T08:59:34.604Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T08:59:34.637Z [[32minfo[39m]: data returnd
+2021-09-01T08:59:34.668Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T08:59:34.679Z [[31merror[39m]: Error: DB error
+2021-09-01T09:02:38.647Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:02:38.680Z [[32minfo[39m]: data returnd
+2021-09-01T09:02:38.708Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:02:38.715Z [[31merror[39m]: Error: DB error
+2021-09-01T09:02:38.732Z [[31merror[39m]: Error: Length of the field orderCity is incorrect
+2021-09-01T09:03:39.358Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:03:39.390Z [[32minfo[39m]: data returnd
+2021-09-01T09:03:39.420Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:03:39.430Z [[31merror[39m]: Error: DB error
+2021-09-01T09:03:39.443Z [[31merror[39m]: Error: Length of the field orderCity is incorrect
+2021-09-01T09:03:39.449Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:03:39.454Z [[31merror[39m]: Error: DB error
+2021-09-01T09:07:43.693Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:07:43.736Z [[31merror[39m]: Error: DB error
+2021-09-01T09:08:52.048Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:08:52.089Z [[31merror[39m]: Error: DB error
+2021-09-01T09:09:18.518Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:09:18.556Z [[31merror[39m]: Error: DB error
+2021-09-01T09:09:52.918Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:09:52.964Z [[31merror[39m]: Error: DB error
+2021-09-01T09:15:00.537Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:15:00.547Z [[32minfo[39m]: data returnd
+2021-09-01T09:15:32.258Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:15:32.267Z [[31merror[39m]: Error: DB error
+2021-09-01T09:16:39.009Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:16:39.016Z [[31merror[39m]: Error: DB error
+2021-09-01T09:16:46.310Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:16:46.362Z [[32minfo[39m]: data returnd
+2021-09-01T09:17:38.524Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:17:38.537Z [[32minfo[39m]: data returnd
+2021-09-01T09:18:26.743Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:18:26.773Z [[32minfo[39m]: data returnd
+2021-09-01T09:18:26.803Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:18:26.811Z [[32minfo[39m]: data returnd
+2021-09-01T09:18:26.817Z [[31merror[39m]: Error: Length of the field orderCity is incorrect
+2021-09-01T09:18:26.822Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:18:26.830Z [[32minfo[39m]: data returnd
+2021-09-01T09:19:23.724Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:19:23.755Z [[32minfo[39m]: data returnd
+2021-09-01T09:19:23.785Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:19:23.793Z [[32minfo[39m]: data returnd
+2021-09-01T09:19:23.799Z [[31merror[39m]: Error: Length of the field orderCity is incorrect
+2021-09-01T09:19:23.805Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:19:23.813Z [[31merror[39m]: Error: DB error
+2021-09-01T09:20:07.046Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:20:07.088Z [[31merror[39m]: Error: DB error
+2021-09-01T09:20:35.970Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:20:36.002Z [[32minfo[39m]: data returnd
+2021-09-01T09:20:36.031Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:20:36.039Z [[32minfo[39m]: data returnd
+2021-09-01T09:20:36.045Z [[31merror[39m]: Error: Length of the field orderCity is incorrect
+2021-09-01T09:20:36.051Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:20:36.063Z [[31merror[39m]: Error: DB error
+2021-09-01T09:57:40.584Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:57:40.622Z [[32minfo[39m]: data returnd
+2021-09-01T09:58:03.437Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:58:03.442Z [[31merror[39m]: Error: DB error
+2021-09-01T09:58:13.614Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:58:13.621Z [[32minfo[39m]: data returnd
+2021-09-01T09:58:14.895Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:58:14.903Z [[32minfo[39m]: data returnd
+2021-09-01T09:58:18.328Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T09:58:18.335Z [[32minfo[39m]: data returnd
+2021-09-01T09:58:28.730Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T09:58:28.732Z [[32minfo[39m]: data returnd
+2021-09-01T10:02:49.735Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:03:58.701Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:04:46.725Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:05:13.233Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:05:22.829Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:05:32.427Z [[31merror[39m]: Error: Invalid city name
+2021-09-01T10:05:45.510Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T10:05:45.554Z [[32minfo[39m]: data returnd
+2021-09-01T10:06:31.000Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T10:06:31.044Z [[32minfo[39m]: data returnd
+2021-09-01T10:08:19.412Z [[32minfo[39m]: incoming request on route /orders method = POST
+2021-09-01T10:08:19.459Z [[32minfo[39m]: data returnd
+2021-09-01T10:12:14.145Z [[31merror[39m]: Error: Date is incorrect
+2021-09-01T10:12:18.796Z [[31merror[39m]: Error: Date is incorrect
+2021-09-01T10:13:09.800Z [[31merror[39m]: Error: Can't find /ordersdsf on this server!
+2021-09-01T10:16:14.607Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T10:16:14.639Z [[32minfo[39m]: data returnd [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:17:28.543Z [[32minfo[39m]: incoming request on route /orders method = POST attached DATA: {"data":{"customerId":"12","orderDate":"2021-9-1","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1","products":[{"productId":"1","quantity":"1"},{"productId":"2","quantity":"1"}]}}
+2021-09-01T10:17:28.577Z [[32minfo[39m]: data returnd {"fieldCount":0,"affectedRows":2,"insertId":0,"info":"Records: 2  Duplicates: 0  Warnings: 0","serverStatus":2,"warningStatus":0}
+2021-09-01T10:20:16.848Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T10:20:16.880Z [[32minfo[39m]: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:20:32.319Z [[32minfo[39m]: incoming request on route /orders method = GET
+2021-09-01T10:20:32.354Z [[32minfo[39m]: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:21:06.240Z [32minfo[39m: incoming request on route /orders method = GET
+2021-09-01T10:21:06.272Z [32minfo[39m: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:21:53.806Z info: incoming request on route /orders method = GET
+2021-09-01T10:21:53.841Z info: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:22:18.495Z [info]: incoming request on route /orders method = GET
+2021-09-01T10:22:18.538Z [info]: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:24:35.238Z [info]: incoming request on route /orders method = GET
+2021-09-01T10:24:35.271Z [info]: response DATA [{"orderId":9,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":10,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":11,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":12,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"qwertyuiopasdfghjklzxcvbnm","orderAddress":"asdaskljhda lsdajkdlasjd laskdj "},{"orderId":13,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":14,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1"},{"orderId":15,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"},{"orderId":16,"customerId":12,"orderDate":"2021-08-31T21:00:00.000Z","orderCity":"Ramat Gan","orderAddress":"HaEshel 1"}]
+2021-09-01T10:24:38.453Z [info]: incoming request on route /orders method = POST attached DATA: {"data":{"customerId":"12","orderDate":"2021-9-1","orderCity":"  Ramat Gan  ","orderAddress":"HaEshel 1","products":[{"productId":"1","quantity":"1"},{"productId":"2","quantity":"1"}]}}
+2021-09-01T10:24:38.461Z [info]: response DATA {"fieldCount":0,"affectedRows":2,"insertId":0,"info":"Records: 2  Duplicates: 0  Warnings: 0","serverStatus":2,"warningStatus":0}
+2021-09-01T10:25:02.062Z [error]: Error: Invalid city name
+2021-09-01T10:26:08.948Z [error]: Error: Invalid city name

@@ -1,0 +1,31 @@
+DB:
+1. install mySQL (write down the user and password)
+in mySQL:
+2. select Server at the top bar
+3. select Data Import
+4. tick the "Import from Self-Contained File
+5. pick the file "restuarant.sql" (comes inside the zip)
+6. refresh the SCHEMAS tab on the left.
+7. you should be able to see the DB in the SCHEMAS bar
+
+(if anything doesnt work I attached a sql query script that 
+creates a db when run inside mySQL named: "Create resturant DB script.sql")
+
+server:
+1. open the terminal in root folder and write "npm install"
+2. go to the DAL folder api.js file and in line 3 change the user and password to match
+the details of your mySQL user/password.
+
+notes:
+*example of a working order: 
+{
+    "data": {
+        "customerId": "12",
+        "orderDate": "2021-9-1",
+        "orderCity": "  Ramat Gan  4",
+        "orderAddress": "HaEshel 1",
+        "products": [{"productId": "1", "quantity": "1"}, {"productId": "2", "quantity": "1"}]
+    }
+}
+*currently working productIds are 1-5 (DB is filled with 5 products)
+* to run testing in terminal write "npm test"
