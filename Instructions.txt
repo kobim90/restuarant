@@ -22,7 +22,7 @@ notes:
     "data": {
         "customerId": "12",
         "orderDate": "2021-9-1",
-        "orderCity": "  Ramat Gan  4",
+        "orderCity": "  Ramat Gan",
         "orderAddress": "HaEshel 1",
         "products": [{"productId": "1", "quantity": "1"}, {"productId": "2", "quantity": "1"}]
     }
