@@ -12,8 +12,12 @@ in mySQL:
 creates a db when run inside mySQL named: "Create resturant DB script.sql")
 
 server:
-1. open the terminal in root folder and write "npm install"
-2. go to the DAL folder api.js file and in line 3 change the user and password to match
+1.install git Bash
+2.open git Bash in a folder of your choosing
+3.write "npm init"
+4. write "git clone https://github.com/kobim90/restuarant.git"
+5. open the terminal in root folder and write "npm install"(in any IDE you choose)
+6. go to the DAL folder api.js file and in line 3 change the user and password to match
 the details of your mySQL user/password.
 
 notes:
@@ -22,7 +26,7 @@ notes:
     "data": {
         "customerId": "12",
         "orderDate": "2021-9-1",
-        "orderCity": "  Ramat Gan",
+        "orderCity": "Ramat Gan",
         "orderAddress": "HaEshel 1",
         "products": [{"productId": "1", "quantity": "1"}, {"productId": "2", "quantity": "1"}]
     }
