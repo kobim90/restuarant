@@ -4,6 +4,9 @@ const server = require('../app')
 chai.should()
 chai.use(chaiHttp)
 
+const currentDate = new Date()
+const date = `${currentDate.getFullYear()}-${currentDate.getMonth()+1}-${currentDate.getDate()}`
+
 describe('Orders', () => {
     // Test GET
     describe("GET /orders", () => {
@@ -27,9 +30,9 @@ describe('Orders', () => {
             const order = {
                 "data": {
                     "customerId": "12",
-                    "orderDate": "2021-8-31",
-                    "orderCity": "qwertyuiopasdfghjklzxcvbnm",
-                    "orderAddress": "asdaskljhda lsdajkdlasjd laskdj ",
+                    "orderDate": date,
+                    "orderCity": "Ramat Gan",
+                    "orderAddress": "HaEshel 1",
                     "products": [{"productId": "1", "quantity": "1"}]
                 }
             }
@@ -50,9 +53,9 @@ describe('Orders', () => {
             const order = {
                 "data": {
                     "customerId": "12",
-                    "orderDate": "2021-8-31",
+                    "orderDate": date,
                     "orderCity": "qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm",
-                    "orderAddress": "asdaskljhda lsdajkdlasjd laskdj ",
+                    "orderAddress": "HaEshel 1 ",
                     "products": [{"productId": "1", "quantity": "1"}]
                 }
             }
@@ -73,9 +76,9 @@ describe('Orders', () => {
             const order = {
                 "data": {
                     "customerId": "12",
-                    "orderDate": "2021-8-31",
-                    "orderCity": "qwertyuiopasdfklzxcvbnm",
-                    "orderAddress": "asdaskljhda lsdajkdlasjd laskdj ",
+                    "orderDate": date,
+                    "orderCity": "Ramat Gan",
+                    "orderAddress": "HaEshel 1",
                     "products": []
                 }
             }

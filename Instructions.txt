@@ -17,7 +17,7 @@ server:
 the details of your mySQL user/password.
 
 notes:
-*example of a working order: 
+*example of a working order recieved by the server from the client: 
 {
     "data": {
         "customerId": "12",
@@ -29,3 +29,5 @@ notes:
 }
 *currently working productIds are 1-5 (DB is filled with 5 products)
 * to run testing in terminal write "npm test"
+*the GET route return the orders of the current date, so in order to see results, you must enter orders from the date you
+are checking the project
